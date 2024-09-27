@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.price {
+    color: #22bebe;
+}
+
+table {
+    width: 100%;
+}
+
+table th {
+    text-align: left;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.primary {
+    background-color: #f5ce63;
+}
+
+.qty-btn {
+    color: #f5ce63 !important;
+    border-color: #f5ce63 !important;
+}
